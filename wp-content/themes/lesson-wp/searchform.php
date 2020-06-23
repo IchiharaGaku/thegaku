@@ -1,0 +1,5 @@
+<form method="get" class="searchform" action="http://lesson1.local/">
+    <input type="text" placeholder="キーワード検索!!" name="s"
+       class="searchfield" value=""/>
+     <input type="submit" value="" alt="検索" title="検索" class="searchsubmit"/>
+</form>
